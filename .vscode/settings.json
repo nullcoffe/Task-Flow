@@ -1,0 +1,4 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cmake.sourceDirectory": "D:/ADIA/Sem5/Pemrograman Mobile/test/app_project/linux"
+}
